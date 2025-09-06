@@ -1,0 +1,10 @@
+this is two file 
+[
+    add somme content
+]
+{
+
+    add somme this program
+
+    color = red 
+}
